@@ -3,3 +3,5 @@
 ```javascript
 console.log('Hello World')
 ```
+
+New documentation
